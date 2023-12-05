@@ -59,7 +59,7 @@ spicy_foods = [
     },
 ]
 ```
-
+ 
 Practice using loops and Python list comprehensions alongside `list` and `dict`
 methods to solve these deliverables.
 
